@@ -1,0 +1,8 @@
+[Activity]
+name = DesafioMundial
+bundle_id = org.Ceibal.DesafioMundial
+exec = sugar-activity DesafioMundial.DesafioMundial
+icon = DesafioMundial
+activity_version = 1
+show_launcher = yes
+license = GPLv2+
